@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#FF6200EE</color>
+    <color name="primary_dark">#FF3700B3</color>
+    <color name="secondary_color">#FF03DAC5</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="gray">#FF757575</color>
+    <color name="light_gray">#FFBDBDBD</color>
+    <color name="background_gray">#FFF5F5F5</color>
+    <color name="red">#FFEB3B40</color>
+
+    <!-- Bottom Navigation Colors -->
+    <color name="bottom_nav_colors">@color/bottom_nav_selector</color>
+</resources>
